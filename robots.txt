@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iriduopu.github.io/Foh/sitemap_index.txt
+Sitemap: https://iriduopu.github.io/WQt/sitemap_index.txt
+Sitemap: https://iriduopu.github.io/jOs/sitemap_index.txt
+Sitemap: https://iriduopu.github.io/jtV/sitemap_index.txt
